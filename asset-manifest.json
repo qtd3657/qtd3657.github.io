@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5833c965.css",
+    "main.js": "/static/js/main.77d5933e.js",
+    "static/js/787.917857b7.chunk.js": "/static/js/787.917857b7.chunk.js",
+    "static/media/KBO Dia Gothic_medium.ttf": "/static/media/KBO Dia Gothic_medium.86277cf8b7effb3dd1b1.ttf",
+    "static/media/KBO Dia Gothic_medium.otf": "/static/media/KBO Dia Gothic_medium.649c5ec2de0392fa70cf.otf",
+    "static/media/KBO-Dia-Gothic_medium.woff": "/static/media/KBO-Dia-Gothic_medium.b9c24ff46537fcbec8d2.woff",
+    "static/media/img_ytb2.png": "/static/media/img_ytb2.b92e1ff95c960822050b.png",
+    "static/media/img_ytb1.png": "/static/media/img_ytb1.1619b90225713bfde7b3.png",
+    "static/media/img_insta2.png": "/static/media/img_insta2.0011434aafae1fc00a16.png",
+    "static/media/img_insta1.png": "/static/media/img_insta1.3de24e09e73484382f02.png",
+    "index.html": "/index.html",
+    "main.5833c965.css.map": "/static/css/main.5833c965.css.map",
+    "main.77d5933e.js.map": "/static/js/main.77d5933e.js.map",
+    "787.917857b7.chunk.js.map": "/static/js/787.917857b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5833c965.css",
+    "static/js/main.77d5933e.js"
+  ]
+}
